@@ -1,0 +1,14 @@
+{
+    "name": "codevbk/test_html_parser",
+    "autoload": {
+        "files": ["src/*"]
+    },
+    "scripts": {
+        "start-webserver": [
+                "php -S localhost:8000"
+            ]
+    },
+    "require": {
+        "paquettg/php-html-parser": "^3.1"
+    }
+}

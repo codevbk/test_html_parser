@@ -1,3 +1,19 @@
+# ignores all asset files without folders
+#/src/assets/**/*.js
+#/src/assets/**/*.css
+!/src/assets/js/
+!/src/assets/css/
+/src/assets/js/*.js
+/src/assets/css/*.css
+
+# ignores cache file in temp folder 
+#!/src/temp/
+#/src/temp/*.html
+
+# ignores vscode folder
+.vscode
+
+# ignores vendor folder
 composer.phar
 /vendor/
 
