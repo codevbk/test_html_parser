@@ -26,8 +26,5 @@ composer run-script start-webserver
 
 ### 2023-04-08
 
-<details open>
-<summary>Added</summary>
-<br/>
-- Initial Commit 090a943
-</details>
+
+- Initial Commit [090a943](https://github.com/codevbk/test_html_parser/commit/090a943cf9e94d70f6e5c31ab808269d3853be22)
